@@ -1,0 +1,5 @@
+pdfkit
+Jinja2
+pandas
+matplotlib
+numpy

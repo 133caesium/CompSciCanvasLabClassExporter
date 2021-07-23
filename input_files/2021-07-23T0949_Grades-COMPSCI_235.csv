@@ -1,0 +1,283 @@
+Student,ID,SIS User ID,SIS Login ID,Section,Assignment Phase 1 (240691),Assignment Phase 2 (240692),Assignment Phase 3 (240693),Post Lecture Quiz 1 (240697),Post Lecture Quiz 2 (240698),Post Lecture Quiz 3 (240694),Post Lecture Quiz 4 (240695),Post Lecture Quiz 5 (240696),Lab Report 1 (246231),Lab Report 2 (246232),Lab Report 3 (246233),Lab Report 4 (246234),Final Exam (246235),Assignments Current Score,Assignments Unposted Current Score,Assignments Final Score,Assignments Unposted Final Score,Post Lecture Theory Quizzes Current Score,Post Lecture Theory Quizzes Unposted Current Score,Post Lecture Theory Quizzes Final Score,Post Lecture Theory Quizzes Unposted Final Score,Lab Reports Current Score,Lab Reports Unposted Current Score,Lab Reports Final Score,Lab Reports Unposted Final Score,Final Exam Current Score,Final Exam Unposted Current Score,Final Exam Final Score,Final Exam Unposted Final Score,Current Score,Unposted Current Score,Final Score,Unposted Final Score,Current Grade,Unposted Current Grade,Final Grade,Unposted Final Grade
+,,,,,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,Manual Posting,,,,,,,,,,,,,,,,,,,,,,,,
+    Points Possible,,,,,10.00,20.00,12.00,1.00,1.00,1.00,1.00,1.00,2.00,2.00,2.00,2.00,45.00,(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only),(read only)
+"'Ofa, Francis",179935,221528281,fofa210,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Abraham, Jonathan",23291,8392256,jabr888,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Acero, Ian",142966,993670507,race933,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Ahmed, Abdul",123434,409586790,aahm522,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Akshali, Avashnita",76268,847465585,aaks486,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Alam, Alvee",202,9085303,aala484,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Almquist, Griffin",221951,866813223,galm020,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Anana, Keitel",208580,974893160,kana140,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Anderson, Craig",254180,756484764,cand380,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Anklesaria, Mark",263381,516656686,mank511,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Ao, Hongyan",243771,100845643,hao356,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Atilano, Cara",174979,360827150,cati063,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Baban, Otto",263225,170286250,bnor488,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Baldwin, Lucy",262645,497009402,lbal837,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Barber, Nikki",216152,895999688,nbar628,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Bartlett-Wright, Jared",23575,682814678,jbar537,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Basra, Ajay",203933,903736192,abas120,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Basthian, Nishan",265480,716739232,sbas780,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Beetge, Francois",182831,406057199,fbee055,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Blair, Malachi",171157,306520545,mbla240,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Bonamis, Akil",227658,5277893,abon253,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Brady, James",170432,712666240,jbra654,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Breen, Joshua",138599,497186542,jbre983,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Briones, JD",261025,646350239,jbri110,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Cai, Xunfeng",222495,504226945,xcai720,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chan, Jordan",207689,892075594,jcha919,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chan, Lok Man",128288,542696155,lcha893,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chappell, Adam",180242,431571835,acha764,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chen, April",211579,714916063,ych663,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chen, Josephine",224487,373064113,jche530,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chen, Ran",220721,868655396,rche596,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chen, Renyiang",247614,696889371,rche209,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chen, Ruby",75983,312647206,nche838,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chen, Weilin",232958,617134975,wche667,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chen, Yanz",259727,756139979,ych356,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chhagan, Hamish",206911,419646443,hchh264,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chintapatla, Pranav",71924,776581692,pchi768,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Choi, Yejoo",264449,419594962,ycho991,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Choi, Yunu",261678,507999361,ycho621,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chong, Pak Yu",174479,355513675,pcho097,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Christensen, Cameron",176262,209178186,cchr443,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Chung, Joshua",309744,669651966,jchu634,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Claridge, Jan",172155,664672020,jcla534,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Cory, Peter",224639,170815749,pcor591,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Coupland, Orion",294388,492887004,ocou524,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Daugherty, Cameron",248669,258053611,cdau530,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Davy, Lisa",253197,330237256,ldav540,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Dean, Ubaidullah",117255,263442152,udea631,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Desai, Medhavi",172335,914892326,mdes954,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Dimalen, Isaac Davonne",222631,640148443,idim293,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Dionisio, Lucy Jane",246435,490972743,ldio470,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Doo, Kaitlyn",179672,482430776,kdoo403,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Dooley, Priya",223192,596217674,pdoo644,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Dosado, Samuel",244171,502845945,jdos028,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Evans-Parker, Kimberley",121714,576292546,keva419,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Fan, Jinhua",196238,190256630,jfan200,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Fegan, Matthew",259509,358803491,mfeg812,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Feng, Meihua",221799,821799923,mfen869,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Fifita-Lamb, Joshua",222200,143911655,jfif375,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Gan, Grace",244421,671473863,pgan801,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Gandhi, Rishabh",204656,528300097,rgan693,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Ge, Tianyin",247501,524393265,tge000,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Giles, David",265159,537363428,dgil754,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Gill, Ish",110311,6728190,igil215,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Goh, Yu-En",216779,589921567,ygoh859,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Gounder, Prateek",194485,912818536,pgou298,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Govender, Daena",118553,354870502,dgov578,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Gray, Hayden",253863,123427487,hgra731,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Guan, Melo",188958,942969415,ygua699,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Hanfiro, Finiasi",17384,939714841,fhan407,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Harman, Jesse",136928,368014293,jhar932,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Harvey-Cross, Jessie",236717,535800372,jhar569,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Hastings, Kieran",251752,600667046,khas904,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"He, Yujie",245501,578048520,yhe921,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Heald, Samuel",191029,2726665,shea093,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Heeley, Thomas",110861,101312961,thee441,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Hithersay, Alexander",265934,156363555,ahit658,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Holmes-Albert, Kayles",257700,633685152,khol825,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Howan, Lily",246342,765548942,lhow884,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Hsu, Zachary",259605,791039156,yhsu573,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Hu, Adira",241007,334115432,yhu516,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Hu, Ivy",136492,651634092,xhu604,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Hu, Joy",189637,107664618,mhu138,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Huang, Frances",197206,382075076,fhua127,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Huang, Ricky",214112,863646028,rhua802,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Hunt, James",211000,948888325,jhun182,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Hwang, Jeff",209630,107793487,jhwa426,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Jaggar, Michael",227341,718276972,mjag729,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"James, Matt",265202,616877793,mjam534,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Jang, SungJae",213299,272587062,sjan260,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Jensen, George",165045,627918650,gjen855,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Jo, Yunkeun",242847,938550590,yjo827,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Joe, Darren",84449,849913222,djoe419,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"John, Steve",109984,200938257,sjoh865,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Kent, Joshua",181469,470743628,jken361,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Kim, Bomi",66399,573688377,bkim308,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Kim, Caleb",179937,311297421,glee478,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Kim, Grace",249786,784221822,ykim354,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Kim, Hankyul",132710,831380915,hkim453,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Kim, Isaac",91074,380336084,ikim202,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Kim, Sarah",252375,530293287,skim567,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Kim, Sean",137666,202085913,skim635,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"King, Oliver",180096,324496024,okin019,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Ko, Caleb",265617,707905390,cko780,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Kondal, Nicholas",116996,520055322,nkon918,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Kumar, Amit",2855,5548198,akmu088,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Laing, Nathan",253845,855018232,nlai961,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lau, Jonathan",256777,713564377,jlau853,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Law, Callum",248091,776828480,claw243,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Layburn, Thomas",230941,6959263,tlay816,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Le, Johanna",209351,632234835,nle605,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lee, Ji Yoon",77760,400744887,jlee830,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lee, John",125787,671779598,jlee643,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Leggett Lane, Tom",58789,6458354,tleg081,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Li, Amo",266498,446765974,mli457,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Li, Edward",251385,284610987,eli384,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Li, Hao Chen",201325,890749786,hli779,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Li, Haoxuan",195804,544994519,hli421,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Li, Junxi",178131,360860866,jli873,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Li, Minghui",260918,625612076,mli139,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Li, Yu Hao",64016,6311870,yli612,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lim, Anthony",128504,434329278,alim467,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lim, Molika",208310,344070002,mlim912,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liman, Philip",210257,618464079,plim294,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lin, Linda",200195,587425228,clin802,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lin, Samuel",182215,853221552,wlin721,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lisignoli, Aida",224097,910658049,alis958,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liu, Bowen",262626,755153752,bliu471,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liu, Calvin",175243,481367584,cliu823,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liu, Entong",234414,118215957,eliu649,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liu, Jack",124985,689785742,jliu354,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liu, Leyang",171963,228427403,lliu533,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liu, Louis",176135,572343932,ldao475,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liu, Mason",197879,635375633,jliu234,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liu, Mudong",172857,493979852,mliu621,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liu, Runheng",241736,679675216,rliu378,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liu, Xingyu",172946,231196989,xliu315,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liu, Xinhuang",222710,228839197,xliu252,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Liu, Yifei",227825,916132398,yliu466,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lo, Ted",242849,9609293,tlo227,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Loh, Andrew",252084,346972466,aloh596,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lou, Amos",181809,281209653,alou047,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Louis, Blake",196051,779768575,alou258,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lousi, Angenita",132639,292428659,alou149,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lu, Yiheng",126683,915972467,ylu856,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Luo, Jesse",223466,822666882,jluo896,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Lyu, Irving",218281,475209950,jlyu334,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Macaalay, Rae",201315,512726034,cmac980,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Mahue, Rawiri",251442,858729144,rmah453,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Malvar, Sean Lyndon",151997,909295033,smal000,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Manueli, Merllissia",39404,8288862,mman899,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Mao, Yuanchen",217007,415917496,ymao794,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Mason, Sam",109846,805042584,smas857,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Matta, Dory",190026,365677409,dmat380,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"McAnulty, Daniel",260176,523526097,dmca925,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"McDonald, Guy",169110,782991233,gmcd958,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Meredith, Maximillian",226880,906829255,mmer421,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Mestvirishvili, Vakhtangi",272544,901174368,vmes688,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Miao, Minxing",136501,526467459,mmia899,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Missen, James",163227,598193426,jmis297,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Mo, Zhaoqi",220270,488420384,zmo519,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Moore, Ben",209480,180494862,gmoo338,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Morrissey, Daniel",13656,9675928,dmor941,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Mozolev, Andrew",222146,661169120,amoz342,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Naling, Franz",241513,109865894,fnal136,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Ng, Siu Kai",55043,242146733,sng885,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Noonan, Sophie",139425,310161202,snoo911,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Nottage, Jordan",121673,710381321,jnot461,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"O'Callahan, Bickio",174399,449735199,boca359,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Oberoi, Viresh",217322,220359893,vobe810,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Ogra, Akshay",4010,5406149,aogr188,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Ou, Rainbow",217509,686008630,you426,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Palu, Simon",55211,149302615,spal874,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Pan, Hong",122027,337733535,hpan118,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Pan, John",222605,499843243,span990,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Patel, Parth",210880,192974898,ppat159,COMPSCI 235 Lecture NZ80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Patel, Rinkeshkumar",217016,362554440,rpat402,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Patel, Rohan",210939,163898216,rpat356,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Perelini, Caleb",220087,103089855,cper523,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Quan, Yujia",130753,379179552,yqua205,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Ran, Fengyuan",232832,454251455,fran799,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Rao, Advait",266440,820627703,arao787,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Rauzi, Benjamin",295207,212023177,brau240,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Ren, Kevin",209637,883971071,bren268,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"RiedlShah, Lucas",259514,991256024,lrie503,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Rofe, Sophie",112747,111227349,srof384,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Salih, Eamon",218080,456774970,esal810,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Santiago, Maria Alexandrea",165454,891684582,msan432,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Sanvictores, Timothy",259874,160895845,tsan397,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Sato, Teruki",92870,5785636,tsat912,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Scragg, Joshua",250355,984771941,jscr756,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Shan, Simon",226291,441147157,qsha020,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Sharma, Tushar",248236,239873227,tsha149,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Sharrock, Barbora",122917,827462432,bsha259,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Shetty, Adish",264819,241528903,ashe271,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Simpson, Sebastian",252235,893080328,ssim289,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Singh, Gaurav",221310,545619518,gsin932,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Singh, Jasveer",85137,717831909,jsin746,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Singh, Jessie",85136,149396930,jsin219,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Singh, Jobandeep",88912,991854235,jsin392,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Singh, Prabhnoor",259072,273246382,psin897,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Solanki, Renav",256046,646750275,rsol968,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Stewart, Chris",249440,606235818,cste676,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Strauss, Dylan",242069,502885621,dstr370,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Sum, Matthew",214476,452608588,msum500,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Sun, Cody",261108,383231499,ysun503,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Sun, Rachel",50300,973905174,rsun160,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Taka, Carl",209416,206830343,ctak052,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Tan, Aaron",118620,813753749,atan914,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Tan, Jesse",182652,680502865,zjes252,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Tan, Paul Albert",124952,861849817,ptan355,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Tangonan, Rommel",203474,262831033,rtan744,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Tomazic, Aleksej",268765,492874653,atom886,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Tran, Thanh Huong Thi",254376,307048537,ttra889,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Tsang, Gabriel",166733,997202588,gtsa467,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Ubha, Sukrat",162910,421843390,subh598,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Usher, Aaron",5592,6628261,aush904,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Veloria, Marion",71826,421060361,mvel605,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Videtta, Alex",208017,173498689,avid056,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wang, David",248458,869068994,wany781,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wang, Luke",268179,455066302,lwan721,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wang, Manqi",277522,342647180,mwan556,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wang, Michael",270335,520894847,mwan688,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wang, Ruikai",259716,540253289,rwan912,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wang, Yihan",232253,879924045,wany879,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wang, Yilin",252010,142333689,wany589,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wang, Zixun",233023,226537590,zwan669,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Watson, Jacob",261271,975946498,jwat636,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Webb, Matthew",265739,346278239,mweb459,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wei, Tiancheng",189651,938057210,twei832,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wei, Victor",175694,569198252,dwei343,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Williams, Toby",257490,477065057,twil316,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Williamson, Jesse",29277,8462664,jwil671,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wilson, Benjamin",260429,158410722,bwil220,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wong, Benjamin",95751,384567074,blu378,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wong, Keong",116003,558560674,wkeo448,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wong, Stephen",261640,921171252,swon778,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Woo, Jeffrey",160430,588391023,jwoo578,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wu, James",206498,428324067,ywu737,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wu, Rachel",253132,462986339,rwu050,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wu, Sam",114260,484679276,swu865,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Wu, Yikun",215581,912627692,ywu973,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Xie, Li",199634,181081824,lxie559,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Xiong, Kenny",259271,875268386,kxio297,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Xu, Bangyu",195217,309272364,bxu968,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Xu, Jiajia",268823,244682142,jxu767,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Yang, Jiarui",146104,795056797,jyan503,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Yang, Johnny",262447,216376615,jyan836,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Yang, Kai",260947,924762285,kyan374,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Ye, Louis",164702,804498969,lye579,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Ye, Ping",263411,445920274,pye048,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Yi, Jeremiah",85183,255712589,jyi889,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Yi, Yewon",153240,135947025,yyi990,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Yildiz, Kayra",255775,776179951,kyil067,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Yip, Kevin",261081,984200866,kyip053,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Yiu, Clinton",88822,741379312,cyiu795,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Yoon, Peter",173644,831913072,syoo188,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Yu, Hok Lai",253788,305839008,yhok562,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Yu, Jiexin",178593,392175935,jyu182,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Yu, Reuben",225912,558350343,ryu381,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zeng, Carl",234493,673009490,xzen149,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhan, Haihao",259040,933120284,hzha801,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhang, Amy",244193,728339818,azha206,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhang, Derek",240305,422467980,zzha248,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhang, Eve",245883,531259406,ezha969,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhang, Haiqiang",260589,237994789,hzha556,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhang, Jethro",29644,6432357,jzha680,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhang, Jie",181226,368943447,jzha732,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhang, Ruiqi",214307,693164543,rzha992,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhang, William",250170,289064065,wzha637,COMPSCI 235 Laboratory B06C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhang, Yi Yun",126856,182088745,hzha784,COMPSCI 235 Laboratory B01C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhang, Yutian",287743,775633745,yzhb621,COMPSCI 235 Laboratory B04C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhang, Zhiyao",146299,738556648,zzha415,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhong, Nancy",198445,745918176,nzho773,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhou, Yanjie",245470,956077338,yzho464,COMPSCI 235 Lecture OO80,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhu, Huiting",250088,719611568,hzhu917,COMPSCI 235 Laboratory B05C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhu, Ji",261450,387051989,jzhu688,COMPSCI 235 Laboratory B02C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zhuang, Ariel",246478,319804905,rzhu035,COMPSCI 235 Laboratory B03C and COMPSCI 235 Lecture L01C,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"Zjajic, Stephanie",220366,811533187,szja022,COMPSCI 235 Lecture NO85,,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
+"student, Test",343418,,29ff6019d6031e553698402290e69d1a46466034,"COMPSCI 235 Laboratory B01C, COMPSCI 235 Laboratory B02C, COMPSCI 235 Laboratory B03C, COMPSCI 235 Laboratory B04C, COMPSCI 235 Laboratory B05C, COMPSCI 235 Laboratory B06C, COMPSCI 235 Laboratory B07C, COMPSCI 235 Laboratory B08C, COMPSCI 235 Lecture L01C, COMPSCI 235 Lecture NO85, COMPSCI 235 Lecture NZ80, COMPSCI 235 Lecture OO80, and COMPSCI 235: Software Development Methodologies",,,,,,,,,,,,,,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,0.00,0.00,,,D-,D-
