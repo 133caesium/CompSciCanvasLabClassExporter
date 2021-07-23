@@ -13,6 +13,8 @@ filename = "2021-07-23T0949_Grades-COMPSCI_235.csv"
 
 all_lab_slots = ['B01C', 'B02C', 'B03C', 'B04C', 'B05C', 'B06C']
 
+total_rows = 55
+
 input_folder = "input_files"
 output_folder = "output"
 
@@ -47,8 +49,10 @@ template = templateEnv.get_template(TEMPLATE_FILE)
 
 for labslot in all_lab_slots:
 
+    number_of_extra_rows = max(0, total_rows - len(labslot_to_student_dict[labslot]))
     outputText = template.render(which_lab=labslot, column_names=fieldnames,
-                                 student_entries=labslot_to_student_dict[labslot])
+                                 student_entries=labslot_to_student_dict[labslot],
+                                 number_of_extra_rows=number_of_extra_rows)
 
     html_filename = f"{labslot}.html"
     pdf_filename = f"{labslot}.pdf"
